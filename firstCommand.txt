@@ -5,3 +5,7 @@
 >git clone[to take exact copy from remote repository to local worksapce]
 >git pull[to take chnges from remote repository to local worksapce]
 >git push[to sent changes from local worksapce to remote repository]
+>git config --list[to list configuration]
+>git config --global user.name "username"[to add user name]
+>git config --global user.email "useremail"[to add useremail]
+>
