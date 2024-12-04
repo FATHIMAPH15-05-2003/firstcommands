@@ -11,3 +11,7 @@
 >git pull[to take changes from remote repsitory to local repository]
 
 >git push[to sent changes from local workspace to remote repository]
+
+>git config--list[to list configuration]
+>giy config--global user.name"username"[to add usernmqe]
+>git config--global user.email"useremail"[to add useremail]
